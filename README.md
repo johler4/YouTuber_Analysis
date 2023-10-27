@@ -10,3 +10,6 @@ Things we are going to explore:
 - Related Channels
 - Subscribers
 - Location
+
+## Tableau Visualization
+https://public.tableau.com/app/profile/jesse.ohler/viz/Top_YouTube_Channels/Dashboard1
